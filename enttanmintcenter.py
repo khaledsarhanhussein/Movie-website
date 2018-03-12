@@ -27,6 +27,10 @@ red_sparrow=media.Movie("red sparrow "
 	,"Ballerina Dominika Egorova is recruited to 'Sparrow School,' a Russian intelligence service where she is forced to use her body as a weapon. Her first mission, targeting a C.I.A. agent, threatens to unravel the security of both nations."
 	,"http://t0.gstatic.com/images?q=tbn:ANd9GcQ_Sw8iyje2a8mnrsYRNLGzG-G50U093i76B5wHEIt7uON-O57P"
 	,"https://www.youtube.com/watch?v=PmUL6wMpMWw")
-movies={toy_story,avatar,interstellar,shape_of_water,The_Greatest_Showman,red_sparrow }
+Bilal_A_New_Breed_of_Hero=media.Movie("Bilal: A New Breed of Hero",
+	"A thousand years ago, one boy with a dream of becoming a great warrior is abducted with his sister and taken to a land far away from home. Thrown into a world where greed and injustice rule all, Bilal finds the courage to raise his voice and make a change. Inspired by true events, this is a story of a real hero who earned his remembrance in time and history",
+	"http://t0.gstatic.com/images?q=tbn:ANd9GcTdxw63--qufzVji5uw5_-Fe0gQjLOW_VwNBxaGSojcVyAKgioS",
+	"https://www.youtube.com/watch?v=memYLNa-7wQ")
+movies={toy_story,avatar,interstellar,shape_of_water,The_Greatest_Showman,red_sparrow ,Bilal_A_New_Breed_of_Hero}
 fresh_tomatoes.open_movies_page(movies)
 
