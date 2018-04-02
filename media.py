@@ -1,6 +1,6 @@
 import webbrowser
-class Movie():
-    def __init__(
+class Movie():      #class for movies
+    def __init__( #arguments
         self,
         movie_title,
         movie_storyline,
